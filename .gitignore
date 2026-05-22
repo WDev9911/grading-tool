@@ -1,0 +1,59 @@
+# .NET Core
+bin/
+obj/
+out/
+*.user
+*.suo
+*.cache
+*.pdb
+
+# Visual Studio
+.vs/
+*.swp
+*.swo
+*.lock.json
+
+# Rider
+.idea/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Database
+*.mdf
+*.ldf
+*.ndf
+
+# AppSettings có config nhạy cảm
+appsettings.Development.json
+appsettings.Production.json
+
+# Storage (file bài làm sinh viên - KHÔNG nên push)
+Storage/
+src/SWD392.GradingTool.API/Storage/
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini

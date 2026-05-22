@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GradingTool.API/GradingTool.API.csproj" />
+  <Project Path="GradingTool.Application/GradingTool.Application.csproj" />
+  <Project Path="GradingTool.Domain/GradingTool.Domain.csproj" />
+  <Project Path="GradingTool.Infrastructure/GradingTool.Infrastructure.csproj" />
+</Solution>
